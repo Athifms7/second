@@ -1,0 +1,210 @@
+body{
+    margin: 0;
+}
+
+.body{
+    width: 100%;
+    height: 2330px;
+   
+}
+.top{
+    width: 100%;
+    height: 600px;
+    
+}
+.nav{
+    width: 100%;
+    height: 86px;
+    
+  
+    
+}
+.nav1{
+        float:left;
+        width: 118px;
+        height: 100%;
+  
+}
+.nav2{
+    float: left;
+    width:135px;
+    height: 100%;
+    
+}
+.nav3{
+    float: left;
+    width: 150px;
+    height: 100%;
+  
+    
+}
+.nav4{
+    float: left;
+    width: 125px;
+    height: 100%;
+    
+}
+.nav5{
+    float: left;
+    width: 270px;
+    height: 100%;
+  
+}
+.nav6{
+    float: left;
+    width: 397px;
+    height: 100%;
+}
+.nav7{
+    float:left;
+    width: 324px;
+    height: 100%;
+  
+}
+.nav21{
+    color: #dc4348;
+    font-weight: 500;
+    margin-left: 25px;
+    margin-top: 35px;
+    font-family: gotham-book;
+}
+.nav21:hover{
+    text-decoration: underline;
+    
+}
+.nav31{
+    color: #dc4348;
+    font-weight: 500;
+    margin-left: 25px;
+    margin-top: 35px;
+    font-family: gotham-book;
+}
+.nav31:hover{
+    text-decoration: underline;
+    
+}
+.A{
+    width: 60%;
+    float: left;
+}
+.B{
+    width: 40%;
+    float: left;
+}
+.nav41{
+    color: #dc4348;
+    font-weight: 500;
+    margin-left: 14px;
+    margin-top: 35px;
+    font-family: gotham-book;
+}
+.nav41:hover{
+    text-decoration: underline;
+    
+}
+.nav51{
+    font-family: gotham-book;
+    color: #dc4348;
+    font-weight: 500;
+    margin-left: 40px;
+    margin-top: 35px
+}
+.nav51:hover{
+    text-decoration: underline;
+    
+}
+.nav61{
+    font-family: gotham-book;
+    color: #dc4348;
+    font-weight: 500;
+    margin-left: 40px;
+    margin-top: 35px
+}
+.nav61:hover{
+    text-decoration: underline;
+    
+}
+.centre{
+    width: 100%;
+    height: 1191px;
+    background-color: #dc4348;
+}
+.centre1{
+    width: 100%;
+    height: 448px;
+    
+}
+.centre11{
+width: 30%;
+background-color: black;
+height: 100%;
+float: left;
+}
+.centre12{
+    width: 40%;
+    background-color: #ffe214;
+    height: 100%;
+    float: left;
+
+}
+.centre13{
+    width: 30%;
+    height: 100%;
+    float: left;
+   background-color:black;
+
+}
+.icons{
+    width: 100%;
+    height: 100px;
+    
+}
+.img{
+    margin-left: 570px;
+    width: 400px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.footer{
+    width: 100%;
+    height: 275px;
+    cursor: pointer;
+   
+  
+}
+.footer1{
+    width: 100%;
+    height: 100px;
+    
+}
+.a1{
+width: 20%;
+
+float: left;
+height: 100%;
+}
+.b1{
+    width: 20%;
+
+float: left;
+height: 100%;
+
+}
+.c1{
+    width: 20%;
+   
+    float: left;
+    height: 100%;
+}
+.d1{
+    width: 20%;
+    
+    float: left;
+    height: 100%;
+}
+.e1{
+    width: 20%;
+    
+    float: left;
+    height: 100%;
+}
